@@ -21,3 +21,9 @@ Before we get started, it's important to use the appropriate tool for what you a
 ### Step 4
 
 ### Step 5
+
+## Making Adjustments
+
+## Example Projects
+
+## Continuing Education Resources
