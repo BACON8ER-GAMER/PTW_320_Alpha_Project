@@ -5,3 +5,16 @@ Coding is a powerful resource and can give light to many different ideas. Howeve
 ## What Program Should I Use?
 
 Before we get started, it's important to use the appropriate tool for what you are trying to make depending on your coding abilities. The following are great examples to start with if you are just beginning your AI vibe coding journey:
+
+## Step-by-Step Instructions
+
+### Step 1
+
+### Step 2
+
+### Step 3
+
+### Step 4
+
+### Step 5
+
