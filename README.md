@@ -6,6 +6,10 @@ Coding is a powerful resource and can give light to many different ideas. Howeve
 
 Before we get started, it's important to use the appropriate tool for what you are trying to make depending on your coding abilities. The following are great examples to start with if you are just beginning your AI vibe coding journey:
 
+1. Example #1
+2. Example #2
+3. Example #3
+
 ## Step-by-Step Instructions
 
 ### Step 1
@@ -17,4 +21,3 @@ Before we get started, it's important to use the appropriate tool for what you a
 ### Step 4
 
 ### Step 5
-
