@@ -2,17 +2,17 @@
 
 ## Table of Contents (Can be modified as we build the document)
 
-* [Introduction](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project?tab=readme-ov-file#introduction)
+* [Introduction](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#introduction)
 
-* [What Program Should I Use?](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project?tab=readme-ov-file#what-program-should-i-use)
+* [What Program Should I Use?](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#what-program-should-i-use)
 
-* [Instructions](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project/tree/main?tab=readme-ov-file#instructions)
+* [Instructions](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#instructions)
 
-* [Making Adjustments](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project/tree/main?tab=readme-ov-file#making-adjustments)
+* [Making Adjustments](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#making-adjustments)
 
-* [Example Projects](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project/tree/main?tab=readme-ov-file#example-projects)
+* [Example Projects](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#example-projects)
 
-* [Continuing Education Resources](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project/tree/main?tab=readme-ov-file#continuing-education-resources)
+* [Continuing Education Resources](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#continuing-education-resources)
 
 ## Introduction
 
