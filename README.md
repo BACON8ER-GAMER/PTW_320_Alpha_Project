@@ -28,31 +28,23 @@ Before we get started, it's important to use the appropriate tool for what you a
 
 ## Instructions
 
-### Step 1
+### Step 1: The Idea
 
-To start building your website, you need to give the generative AI a prompt for whatever you intend to make. Use simple language, but also be descriptive about what you want. If you aren't clear with the AI what exactly you are looking for, it will make assumptions. If you are just trying to get an idea, you can have a continuing conversation with the AI to further tune and tweak your website. Below are a good example prompt and a bad example prompt given to AI:
+Every website starts from a simple idea. The very first thing you should do is think about what you want your website to be. Brainstorm and write out different ideas, draw what you want it to look like, let your imagination roam free. The internet is your canvas! If it's for a school project, think about the different aspects that need to be included in the assignment.
 
-Good:
+### Step 2: Prompting the AI
 
-(Insert Image Here)
+Once you have your idea, it's time to turn it into a reality. Give the AI a prompt that describes the website you want to create. Be specific about what you are looking for. If you type something like "create for me a website about monkeys," the AI will take many creative liberties about how to build the website. Instead, try writing something like: "Create an informational website about monkeys. Include pictures of monkeys in different habitats around the world and where monkeys are located around the world." You can give the AI a large prompt, but don't make it too big at first! You can always make adjustments later.
 
-Bad:
-
-(Insert Image Here)
-
-### Step 2
+### Step 3: Prototyping and Testing
 
 
 
-### Step 3
+### Step 4:
 
 
 
-### Step 4
-
-
-
-### Step 5
+### Step 5:
 
 
 
