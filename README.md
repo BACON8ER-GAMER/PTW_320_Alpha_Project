@@ -6,7 +6,13 @@
 
 * [What Program Should I Use?](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project?tab=readme-ov-file#what-program-should-i-use)
 
-* [Instructions]()
+* [Instructions](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project/tree/main?tab=readme-ov-file#instructions)
+
+* [Making Adjustments](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project/tree/main?tab=readme-ov-file#making-adjustments)
+
+* [Example Projects](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project/tree/main?tab=readme-ov-file#example-projects)
+
+* [Continuing Education Resources](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project/tree/main?tab=readme-ov-file#continuing-education-resources)
 
 ## Introduction
 
