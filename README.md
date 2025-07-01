@@ -2,7 +2,11 @@
 
 ## Table of Contents (Can be modified as we build the document)
 
-* [Introduction]
+* [Introduction](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project?tab=readme-ov-file#introduction)
+
+* [What Program Should I Use?](https://github.com/BACON8ER-GAMER/PTW_320_Alpha_Project?tab=readme-ov-file#what-program-should-i-use)
+
+* [Instructions]()
 
 ## Introduction
 
@@ -16,7 +20,7 @@ Before we get started, it's important to use the appropriate tool for what you a
 2. Example #2
 3. Example #3
 
-## Step-by-Step Instructions
+## Instructions
 
 ### Step 1
 
