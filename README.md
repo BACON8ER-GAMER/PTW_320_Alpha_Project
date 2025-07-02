@@ -8,8 +8,6 @@
 
 * [Instructions](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#instructions)
 
-* [Making Adjustments](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#making-adjustments)
-
 * [Example Projects](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#example-projects)
 
 * [Continuing Education Resources](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#continuing-education-resources)
@@ -28,6 +26,8 @@ Before we get started, it's important to use the appropriate tool for what you a
 
 ## Instructions
 
+Ready to get started building your website using AI vibe coding? Follow the instructions below to start making your dream website a reality!
+
 ### Step 1: The Idea
 
 Every website starts from a simple idea. The very first thing you should do is think about what you want your website to be. Brainstorm and write out different ideas, draw what you want it to look like, let your imagination roam free. The internet is your canvas! If it's for a school project, think about the different aspects that need to be included in the assignment.
@@ -42,7 +42,7 @@ Do's
 
 (Insert Image(s) here)
 
-Don'ts
+Don't's
 
 (Insert Image(s) here)
 
@@ -54,16 +54,26 @@ Example of AI conversation:
 
 (Insert screenshot of conversation with AI here)
 
-### Step 4:
+### Step 4: Manual Adjustments
 
+While vibe coding with AI is great, it isn't necessarily going to make everything perfect, but that's where you can swoop in and help! Even with all the text the AI will write, you can actually change it yourself! In the HTML file, look for the "<p>" and "</p>" symbols within the text. Any text that is written in there can be manually changed. You can copy and paste text from another document or free write in the file itself to change what is written on the website. This way, you can add a personal touch to the website.
 
+(Insert screenshot of HTML code?)
 
-### Step 5:
+### Step 5: Learning HTML Code
 
-
-
-## Making Adjustments
+Once everything is put together, it's time to look through the code itself. If you want to learn HTML, you need to understand how the code works. Go through the code of your website and take notes on how it works. You can even manually copy the code into another file to practice HTML coding. You can also play with the code itself. Try adjusting different things in the code to see how it changes your website. The fun of building your very own website is, well, making it your own! Add your own personal flourishes to it. And if what you want is to complex, you can either ask your AI companion for help or search on Google to figure out how to do it.
 
 ## Example Projects
 
+With the power of AI vibe coding on your side, the website possibilities are endless! Below are just a few examples of the different kinds of projects you can make using the power of AI vibe coding:
+
+(Insert images of projects?)
+
 ## Continuing Education Resources
+
+Now that you have been introduced to HTML coding, it's a good idea to keep practicing with it and relying less and less on your AI companion. Below are websites that are great to continue learning HTML:
+
+1. Example 1
+2. Example 2
+3. Example 3
