@@ -22,7 +22,8 @@ When using AI as an assistant for coding, it is important to use it in the appro
 
 | Do's | Don't's |
 |------|---------|
-|
+| * Ask AI for help when you are stuck on something | * Have AI write all of the code for you |
+| * 
 
 ## Instructions
 
