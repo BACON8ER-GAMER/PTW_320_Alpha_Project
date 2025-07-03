@@ -1,4 +1,4 @@
-# Vibe Coding for Middle School and High School Students
+# Vibe Coding for Secondary School Students
 
 ## Table of Contents (Can be modified as we build the document)
 
@@ -22,10 +22,15 @@ When using AI as an assistant for coding, it is important to use it in the appro
 
 | Do's | Don't's |
 |------|---------|
-| Ask AI for help when you are stuck on something | Have AI write all of the code for you |
-| 
+| Ask AI for help when you are stuck on something | Have the AI write all of the code for you |
+| Ask AI how it fixed an issue with your code | Have the AI write all of the text within your website |
+| Use AI to prototype or test an idea before committing to a project | Assume AI did wrote all the code correctly |
+| Test out any code written by the AI | Let AI organize all of the code itself |
+| Ask AI any questions you may have | Let the AI have complete creative control over your project |
 
 ## Instructions
+
+Now that we've gone over the Do's and Don't's of AI coding assistance, we'll go through the step-by-step of using AI assistance effectively in a project. Follow the steps below to take control of your project while letting AI help when you need it.
 
 ### Step 1
 
