@@ -18,6 +18,12 @@ Over the years, AI has become more and more powerful. AI's new capabilities allo
 
 ## Disclaimer
 
+When using AI as an assistant for coding, it is important to use it in the appropriate circumstances. We want to make clear that we do not support using AI to do all of the coding. This is a bad practice as you will not learn from the coding process. AI does not think like humans and will arrange the code in a way that may not be optimal for any experienced developer. On top of that, having AI do all the work for you would be considered teaching. Work with your teacher and figure out the best way to use AI for your project. Here are some Do's and Don't's when using AI coding assistance.
+
+| Do's | Don't's |
+|------|---------|
+|
+
 ## Instructions
 
 ### Step 1
