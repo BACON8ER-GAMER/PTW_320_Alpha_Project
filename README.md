@@ -4,13 +4,13 @@
 
 * [Introduction](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#introduction)
 
-* [Disclaimer](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#what-program-should-i-use)
+* [Disclaimer](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#disclaimer)
 
 * [Instructions](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#instructions)
 
 * [Example Projects](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#example-projects)
 
-* [Going Forward](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#continuing-education-resources)
+* [Going Forward](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#going-forward)
 
 ## Introduction
 
@@ -22,8 +22,8 @@ When using AI as an assistant for coding, it is important to use it in the appro
 
 | Do's | Don't's |
 |------|---------|
-| * Ask AI for help when you are stuck on something | * Have AI write all of the code for you |
-| * 
+| Ask AI for help when you are stuck on something | Have AI write all of the code for you |
+| 
 
 ## Instructions
 
