@@ -29,12 +29,26 @@ When using AI as an assistant for coding, it is important to use it in the appro
         <th>Do's</th>
         <th>Don't's</th>
     </tr>
-|------|---------|
-| Ask the AI for help when you are stuck on something | Have the AI write all of the code for you |
-| Ask the AI how it fixed an issue with your code | Have the AI write all of the text within your website |
-| Use the AI to prototype or test an idea before committing to a project | Assume AI did wrote all the code correctly |
-| Ask the AI any questions you may have | Let AI organize all of the code itself |
-| Test out any code written by the AI (if you used AI at all) | Let the AI have complete creative control over your project |
+    <tr>
+        <td>Ask the AI for help when you are stuck on something.</td>
+        <td>Have the AI write all of the code for you.</td>
+    </tr>
+    <tr>
+        <td>Ask the AI how it fixed an issue with your code.</td>
+        <td>Have the AI write all of the text within your website.</td>
+    <tr>
+        <td>Use the AI to prototype or test an idea before committing to a project</td>
+        <td>Assume AI did wrote all the code correctly</td>
+    </tr>
+    <tr>
+        <td>Ask the AI any questions you may have</td>
+        <td>Let AI organize all of the code itself</td>
+    </tr>
+    <tr>
+        <td>Test out any code written by the AI (if you used AI at all, but testing is good to do in general)</td>
+        <td>Let the AI have complete creative control over your project</td>
+    </tr>
+</table>
 
 <h2 id="C3">Instructions</h2>
 
