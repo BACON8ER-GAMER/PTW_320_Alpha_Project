@@ -1,6 +1,6 @@
 # Vibe Coding for Secondary School Students
 
-## Table of Contents
+<h2>Table of Contents</h2>
 
 * [Introduction](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#introduction)
 
@@ -12,7 +12,7 @@
 
 * [Going Forward](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#going-forward)
 
-## Introduction
+<h2 id="C1">Introduction</h2>
 
 Over the years, AI has become more and more powerful in its ability to help developers with their code, allowing them to code more efficiently and effectively than ever before. It is a great tool that, if used correctly, can help aid in prototypes of projects and help put the finishing touches on an HTML website. With this article, you will learn how to use AI effectively to improve your HTML projects.
 
