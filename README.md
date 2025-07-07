@@ -1,4 +1,4 @@
-# AI Assisted Vibe Coding for Secondary Students
+<h1>AI Assisted Vibe Coding for Secondary Students</h1>
 
 <div style="display: flex; align-items: flex-start;">
   <nav style="position: sticky; top: 24px; align-self: flex-start; min-width: 220px; max-width: 260px; background: #f8ffae; border-radius: 16px; box-shadow: 2px 0 8px rgba(67, 206, 162, 0.15); padding: 32px 20px; margin-right: 32px; height: fit-content; font-family: 'Segoe UI', Arial, sans-serif;">
@@ -13,8 +13,6 @@
   </nav>
   <div style="flex: 1; min-width: 0;">
 
-<!-- ...existing code... -->
-
 <h2 id="C1">Introduction</h2>
 
 Over the years, AI has become more and more powerful in its ability to help developers with their code, allowing them to code more efficiently and effectively than ever before. It is a great tool that, if used correctly, can help aid in prototypes of projects and help put the finishing touches on an HTML website. With this article, you will learn how to use AI effectively to improve your HTML projects.
@@ -23,7 +21,14 @@ Over the years, AI has become more and more powerful in its ability to help deve
 
 When using AI as an assistant for coding, it is important to use it in the appropriate circumstances. We want to make it clear that we do not support using AI to all of the coding by itself. This is a bad practice as you will not learn from the coding process. AI does not think like humans and will arrange the code in a way that may not be optimal for any experienced developer. On top of that, having AI do all the work for you would be considered cheating. Work with your teacher and figure out the best way to use AI for your project. And trust us, any experienced teacher or developer *will* know if you used the AI make all of your website. Here are some Do's and Don't's when using AI coding assistance.
 
-| Do's | Don't's |
+<table>
+    <colgroup>
+        <col span="2" style="background color: rgb(204,204,204)">
+    </colgroup>
+    <tr>
+        <th>Do's</th>
+        <th>Don't's</th>
+    </tr>
 |------|---------|
 | Ask the AI for help when you are stuck on something | Have the AI write all of the code for you |
 | Ask the AI how it fixed an issue with your code | Have the AI write all of the text within your website |
