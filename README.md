@@ -101,4 +101,4 @@ As you continue on your coding journey, be sure to check out these resources to 
 * [Codecademy](https://www.codecademy.com/) (Good for high school students looking to turn coding into a career.)
 
 
-[Back to top]()
+[Back to top](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#table-of-contents)
