@@ -68,7 +68,23 @@ By now, you probably have all of the code for your website finished. As any good
 
 ## Example Projects
 
-Below are some examples of prompts and projects that were made with the help of the AI assistant. 
+Below are some examples of prompts and projects that were made with the help of the AI assistant:
+
+* Science Project
+
+(Insert screenshot(s) here)
+
+* Math Project
+
+(Insert screenshot(s) here)
+
+* Social Studies Project
+
+(Insert screenshot(s) here)
+
+(Editor's Note: If either of you have any ideas for specific projects, please feel free to make adjustments to the titles of the bullet points)
+
+
 
 ## Going Forward
 
