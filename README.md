@@ -1,22 +1,25 @@
-# Vibe Coding for Secondary School Students
+# AI Assisted Vibe Coding for Secondary Students
 
-<h2>Table of Contents</h2>
+<div style="display: flex; align-items: flex-start;">
+  <nav style="position: sticky; top: 24px; align-self: flex-start; min-width: 220px; max-width: 260px; background: #f8ffae; border-radius: 16px; box-shadow: 2px 0 8px rgba(67, 206, 162, 0.15); padding: 32px 20px; margin-right: 32px; height: fit-content; font-family: 'Segoe UI', Arial, sans-serif;">
+    <h2 style="color: #43cea2; font-size: 1.3em; margin-bottom: 24px; text-align: center;">Table of Contents</h2>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li style="margin: 18px 0;"><a href="#C1" style="color: #222; text-decoration: none; font-weight: 500;">Introduction</a></li>
+      <li style="margin: 18px 0;"><a href="#C2" style="color: #222; text-decoration: none; font-weight: 500;">Disclaimer</a></li>
+      <li style="margin: 18px 0;"><a href="#C3" style="color: #222; text-decoration: none; font-weight: 500;">Instructions</a></li>
+      <li style="margin: 18px 0;"><a href="#C4" style="color: #222; text-decoration: none; font-weight: 500;">Example Projects</a></li>
+      <li style="margin: 18px 0;"><a href="#C5" style="color: #222; text-decoration: none; font-weight: 500;">Going Forward</a></li>
+    </ul>
+  </nav>
+  <div style="flex: 1; min-width: 0;">
 
-* [Introduction](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#introduction)
-
-* [Disclaimer](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#disclaimer)
-
-* [Instructions](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#instructions)
-
-* [Example Projects](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#example-projects)
-
-* [Going Forward](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#going-forward)
+<!-- ...existing code... -->
 
 <h2 id="C1">Introduction</h2>
 
 Over the years, AI has become more and more powerful in its ability to help developers with their code, allowing them to code more efficiently and effectively than ever before. It is a great tool that, if used correctly, can help aid in prototypes of projects and help put the finishing touches on an HTML website. With this article, you will learn how to use AI effectively to improve your HTML projects.
 
-## Disclaimer
+<h2 id="C2">Disclaimer</h2>
 
 When using AI as an assistant for coding, it is important to use it in the appropriate circumstances. We want to make it clear that we do not support using AI to all of the coding by itself. This is a bad practice as you will not learn from the coding process. AI does not think like humans and will arrange the code in a way that may not be optimal for any experienced developer. On top of that, having AI do all the work for you would be considered cheating. Work with your teacher and figure out the best way to use AI for your project. And trust us, any experienced teacher or developer *will* know if you used the AI make all of your website. Here are some Do's and Don't's when using AI coding assistance.
 
@@ -28,7 +31,7 @@ When using AI as an assistant for coding, it is important to use it in the appro
 | Ask the AI any questions you may have | Let AI organize all of the code itself |
 | Test out any code written by the AI (if you used AI at all) | Let the AI have complete creative control over your project |
 
-## Instructions
+<h2 id="C3">Instructions</h2>
 
 Now that we've gone over the Do's and Don't's of AI coding assistance, we'll go through the step-by-step of using AI assistance effectively in a project. Follow the steps below to take control of your project while letting AI help when you need it.
 
@@ -66,7 +69,7 @@ Now that the AI assistant has helped fix your issue, go back to the code that it
 
 By now, you probably have all of the code for your website finished. As any good web developer would tell you, it's good to test your code often to make sure it is operating the way that you want it to. If something isn't working properly, fix it or ask the AI assistant for help. It's possible you may have even come up with more ideas as you worked on the project. Try adding those in! Any project is a great learning opportunity and will improve your coding skills. With how fast technology is advancing it is good to learn lifelong learning skills to become the best developer that you can be.
 
-## Example Projects
+<h2 id="C4">Example Projects</h2>
 
 Below are some examples of prompts and projects that were made with the help of the AI assistant:
 
@@ -86,7 +89,7 @@ Below are some examples of prompts and projects that were made with the help of 
 
 
 
-## Going Forward
+<h2 id="C5">Going Forward</h2>
 
 As you continue on your coding journey, be sure to check out these resources to learn more about coding for websites and responsible use of an AI assistant. Below are more resources on where you can learn and grow as a developer. The best part, all of the resources listed are free to use!
 
