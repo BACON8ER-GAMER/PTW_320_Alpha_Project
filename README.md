@@ -1,18 +1,19 @@
-# Vibe Coding for Secondary School Students
 
-## Table of Contents (Can be modified as we build the document)
+<div style="display: flex; align-items: flex-start;">
+  <nav style="position: sticky; top: 24px; align-self: flex-start; min-width: 220px; max-width: 260px; background: #f8ffae; border-radius: 16px; box-shadow: 2px 0 8px rgba(67, 206, 162, 0.15); padding: 32px 20px; margin-right: 32px; height: fit-content; font-family: 'Segoe UI', Arial, sans-serif;">
+    <h2 style="color: #43cea2; font-size: 1.3em; margin-bottom: 24px; text-align: center;">Table of Contents</h2>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li style="margin: 18px 0;"><a href="#introduction" style="color: #222; text-decoration: none; font-weight: 500;">Introduction</a></li>
+      <li style="margin: 18px 0;"><a href="#disclaimer" style="color: #222; text-decoration: none; font-weight: 500;">Disclaimer</a></li>
+      <li style="margin: 18px 0;"><a href="#instructions" style="color: #222; text-decoration: none; font-weight: 500;">Instructions</a></li>
+      <li style="margin: 18px 0;"><a href="#example-projects" style="color: #222; text-decoration: none; font-weight: 500;">Example Projects</a></li>
+      <li style="margin: 18px 0;"><a href="#going-forward" style="color: #222; text-decoration: none; font-weight: 500;">Going Forward</a></li>
+    </ul>
+  </nav>
+  <div style="flex: 1; min-width: 0;">
+    <h1 id="vibe-coding-for-secondary-school-students">Vibe Coding for Secondary School Students</h1>
 
-* [Introduction](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#introduction)
-
-* [Disclaimer](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#disclaimer)
-
-* [Instructions](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#instructions)
-
-* [Example Projects](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#example-projects)
-
-* [Going Forward](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#going-forward)
-
-## Introduction
+<!-- ...existing code... -->
 
 Over the years, AI has become more and more powerful. AI's new capabilities allow website developers to code more efficiently and effectively than ever before. It is a great tool that, if used correctly, can help aid in prototypes of projects and help put the finishing touches on an HTML website. With this article, you will learn how to use AI effectively to improve your HTML projects.
 
