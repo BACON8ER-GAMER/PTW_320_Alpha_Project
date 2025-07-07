@@ -110,9 +110,3 @@ As you continue on your coding journey, be sure to check out these resources to 
 <br>
 
 <a href="https://www.codecademy.com/" target="_blank">Codecademy (Good for high school students looking to turn coding into a career.)</a>
-
-<br>
-
-<br>
-
-<a href="https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#table-of-contents">Back to top</a>
