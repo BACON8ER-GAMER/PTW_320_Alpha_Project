@@ -94,14 +94,25 @@ Below are some examples of prompts and projects that were made with the help of 
 As you continue on your coding journey, be sure to check out these resources to learn more about coding for websites and responsible use of an AI assistant. Below are more resources on where you can learn and grow as a developer. The best part, all of the resources listed are free to use!
 
 <a href="https://code.org/en-US" target="_blank">Code.org</a>
+
 <br>
+
 <a href="https://www.w3schools.com/" target="_blank">W3Schools.com</a>
+
 <br>
+
 <a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a>
+
 <br>
+
 <a href="https://scratch.mit.edu/" target="_blank">Scratch (Great for younger learners, but offers accelerated courses for older students.)</a>
+
 <br>
+
 <a href="https://www.codecademy.com/" target="_blank">Codecademy (Good for high school students looking to turn coding into a career.)</a>
+
 <br>
+
 <br>
+
 <a href="https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#table-of-contents">Back to top</a>
