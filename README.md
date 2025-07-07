@@ -102,5 +102,3 @@ As you continue on your coding journey, be sure to check out these resources to 
 
 
 [Back to top](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#table-of-contents)
-
-<p>This is a test and is not part of the final document</p>
