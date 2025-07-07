@@ -68,4 +68,18 @@ By now, you probably have all of the code for your website finished. As any good
 
 ## Example Projects
 
+Below are some examples of prompts and projects that were made with the help of the AI assistant. 
+
 ## Going Forward
+
+As you continue on your coding journey, be sure to check out these resources to learn more about coding for websites and responsible use of an AI assistant. Below are more resources on where you can learn and grow as a developer. The best part, all of the resources listed are free to use!
+
+* [Code.org](https://code.org/en-US)
+
+* [W3Schools](https://www.w3schools.com/)
+
+* [Khan Academy](https://www.khanacademy.org/)
+
+* [Scratch](https://scratch.mit.edu/) (Great for younger learners, but offers accelerated courses for older students.)
+
+* [Codecademy](https://www.codecademy.com/) (Good for high school students looking to turn coding into a career.)
