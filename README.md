@@ -1,6 +1,6 @@
 # Vibe Coding for Secondary School Students
 
-## Table of Contents (Can be modified as we build the document)
+## Table of Contents
 
 * [Introduction](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#introduction)
 
@@ -99,3 +99,6 @@ As you continue on your coding journey, be sure to check out these resources to 
 * [Scratch](https://scratch.mit.edu/) (Great for younger learners, but offers accelerated courses for older students.)
 
 * [Codecademy](https://www.codecademy.com/) (Good for high school students looking to turn coding into a career.)
+
+
+[Back to top]()
