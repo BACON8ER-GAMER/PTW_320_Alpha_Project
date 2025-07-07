@@ -14,19 +14,19 @@
 
 ## Introduction
 
-Over the years, AI has become more and more powerful. AI's new capabilities allow website developers to code more efficiently and effectively than ever before. It is a great tool that, if used correctly, can help aid in prototypes of projects and help put the finishing touches on an HTML website. With this article, you will learn how to use AI effectively to improve your HTML projects.
+Over the years, AI has become more and more powerful in its ability to help developers with their code, allowing them to code more efficiently and effectively than ever before. It is a great tool that, if used correctly, can help aid in prototypes of projects and help put the finishing touches on an HTML website. With this article, you will learn how to use AI effectively to improve your HTML projects.
 
 ## Disclaimer
 
-When using AI as an assistant for coding, it is important to use it in the appropriate circumstances. We want to make clear that we do not support using AI to do all of the coding. This is a bad practice as you will not learn from the coding process. AI does not think like humans and will arrange the code in a way that may not be optimal for any experienced developer. On top of that, having AI do all the work for you would be considered teaching. Work with your teacher and figure out the best way to use AI for your project. And trust us, any experienced teacher or developer *will* know if you had the AI make your website all by itself. Here are some Do's and Don't's when using AI coding assistance.
+When using AI as an assistant for coding, it is important to use it in the appropriate circumstances. We want to make it clear that we do not support using AI to all of the coding by itself. This is a bad practice as you will not learn from the coding process. AI does not think like humans and will arrange the code in a way that may not be optimal for any experienced developer. On top of that, having AI do all the work for you would be considered cheating. Work with your teacher and figure out the best way to use AI for your project. And trust us, any experienced teacher or developer *will* know if you used the AI make all of your website. Here are some Do's and Don't's when using AI coding assistance.
 
 | Do's | Don't's |
 |------|---------|
-| Ask AI for help when you are stuck on something | Have the AI write all of the code for you |
-| Ask AI how it fixed an issue with your code | Have the AI write all of the text within your website |
-| Use AI to prototype or test an idea before committing to a project | Assume AI did wrote all the code correctly |
-| Test out any code written by the AI | Let AI organize all of the code itself |
-| Ask AI any questions you may have | Let the AI have complete creative control over your project |
+| Ask the AI for help when you are stuck on something | Have the AI write all of the code for you |
+| Ask the AI how it fixed an issue with your code | Have the AI write all of the text within your website |
+| Use the AI to prototype or test an idea before committing to a project | Assume AI did wrote all the code correctly |
+| Ask the AI any questions you may have | Let AI organize all of the code itself |
+| Test out any code written by the AI (if you used AI at all) | Let the AI have complete creative control over your project |
 
 ## Instructions
 
@@ -102,3 +102,5 @@ As you continue on your coding journey, be sure to check out these resources to 
 
 
 [Back to top](https://bacon8er-gamer.github.io/PTW_320_Alpha_Project/#table-of-contents)
+
+<p>This is a test and is not part of the final document</p>
