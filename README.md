@@ -75,15 +75,15 @@ Below are some examples of prompts and projects that were made with the help of 
 
 <ul>Science Project</ul>
 
-(Insert screenshot(s) here)
+        (Insert screenshot(s) here)
 
 <ul>Math Project</ul>
 
-(Insert screenshot(s) here)
+        (Insert screenshot(s) here)
 
 <ul>Social Studies Project</ul>
 
-(Insert screenshot(s) here)
+        (Insert screenshot(s) here)
 
 (Editor's Note: If either of you have any ideas for specific projects, please feel free to make adjustments to the titles of the bullet points)
 
@@ -93,7 +93,7 @@ Below are some examples of prompts and projects that were made with the help of 
 
 As you continue on your coding journey, be sure to check out these resources to learn more about coding for websites and responsible use of an AI assistant. Below are more resources on where you can learn and grow as a developer. The best part, all of the resources listed are free to use!
 
-* [Code.org](https://code.org/en-US)
+<a href="https://code.org/en-US" target="_blank">Code.org</a>
 
 * [W3Schools](https://www.w3schools.com/)
 
