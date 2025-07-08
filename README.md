@@ -95,7 +95,7 @@
 <ul>
     <li>Science Project</li>
         (Insert screenshot(s) here)
-    <li>>Math Project</li>
+    <li>Math Project</li>
         (Insert screenshot(s) here)
     <li>Social Studies Project</li>
         (Insert screenshot(s) here)
