@@ -1,4 +1,4 @@
-<h1>AI Assisted Vibe Coding for Secondary Students</h1>
+<h1>AI Assisted Coding for Secondary Students</h1>
 
 <div style="display: flex; align-items: flex-start;">
   <nav style="position: sticky; top: 24px; align-self: flex-start; min-width: 220px; max-width: 260px; background: #f8ffae; border-radius: 16px; box-shadow: 2px 0 8px rgba(67, 206, 162, 0.15); padding: 32px 20px; margin-right: 32px; height: fit-content; font-family: 'Segoe UI', Arial, sans-serif;">
