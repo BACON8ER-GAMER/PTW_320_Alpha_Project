@@ -92,19 +92,14 @@
 
 <p>Below are some examples of prompts and projects that were made with the help of the AI assistant:</p>
 
-<ul>Science Project</ul>
-
+<ul>
+    <li>Science Project</li>
         (Insert screenshot(s) here)
-
-<ul>Math Project</ul>
-
+    <li>>Math Project</li>
         (Insert screenshot(s) here)
-
-<ul>Social Studies Project</ul>
-
+    <li>Social Studies Project</li>
         (Insert screenshot(s) here)
-
-<br>
+</ul>
 
 <p>(Editor's Note: If either of you have any ideas for specific projects, please feel free to make adjustments to the titles of the bullet points)</p>
 
