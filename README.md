@@ -17,6 +17,9 @@
 
 <p>Over the years, AI has become more and more powerful in its ability to help developers with their code, allowing them to code more efficiently and effectively than ever before. It is a great tool that, if used correctly, can help aid in prototypes of projects and help put the finishing touches on an HTML website. With this article, you will learn how to use AI effectively to improve your HTML projects.</p>
 
+        (Image of AI here or after h1?)
+
+        (Maybe a warning image here?)
 
 <h2 id="C2">Disclaimer</h2>
 
@@ -58,17 +61,25 @@
 
 <p>From every great project comes a great idea. Brainstorm what you want out of your website, the way it looks, the contents of it, everything that you can think of. This is the part of the project where you can let your imagination run wild. Just be aware that the final product may not turn out exactly as you thought.</p>
 
+        (Brainstorming image here?)
+
 <h3>Step 2: Drafting the text</h3>
 
 <p>Chances are you're making a website that contains written information in it. Now that you have an idea, start writing out your text on a separate text editing document, like a Microsoft Word document of Google Document. Have a teacher or parent look it over to see what might need changes and apply them. Since this website is about the information, make sure you make adjustments to it now. It will be easier to edit and correct the text on the document itself rather than in the code.</p>
+
+        (Image of a text document here?)
 
 <h3>Step 3: Writing the code</h3>
 
 <p>Now that you have your text written, it's time to start writing the code for the website. Start with the basics and once you get to the text, you can copy and paste it into the code itself. Make sure you follow good coding practices to make sure your code is readable and understandable to yourself and others. Every good website has code that is well organized and arranged!</p>
 
+        (Image of a person writing code here?)
+
 <h3>Step 4: Before you use the AI assistant</h3>
 
 <p>You should have quite a large amount of code written at this point in your project. It may be tempting now to use AI to help you with the rest, but there's another skill you can use before using the AI: Google search. Using Google search, there is a wealth of information at your fingertips, including information on HTML coding. If there is something that you would like to add to your website that you don't know how to do, Google it! For example, maybe you want the background of your website about galaxies in space to have a background of stars in space. Google it and try to find sources that will help you write this code on your own! There are plenty of great resources like [Code.org](https://code.org/en-US) and [W3Schools](https://www.w3schools.com/) that can help you achieve your website goals before resorting to using the AI assistant. Try your best to figure it out on your own before you resort to using the AI assistant.</p>
+
+        (Image of a person using Google Search here?)
 
 <h3>Step 5: Ask the AI assistant why problems may be happening or why something might not be set up correctly</h3>
 
@@ -84,6 +95,8 @@
 
 <p>Now that the AI assistant has helped fix your issue, go back to the code that it wrote. Study it, take notes on it, do everything you can to learn about how it works. Experiment with the code itself to see how things change as you play with it. You can also make any tweaks to the code itself here. If you have trouble understanding the code, ask your teacher how the AI came up with that solution. You can even ask the AI itself how it got the result and it will explain it for you. The best part is that the AI will never get tired of your questions. Ask it whatever you like and ask as many questions as you like! Dive into it to really understand how the AI assistant came up with the solution it did and learn how you can replicate it for future projects. This is a big learning opportunity that you won't want to miss!</p>
 
+        (Image of a person studying here?)
+
 <h3>Step 8: Test the website</h3>
 
 <p>By now, you probably have all of the code for your website finished. As any good web developer would tell you, it's good to test your code often to make sure it is operating the way that you want it to. If something isn't working properly, fix it or ask the AI assistant for help. It's possible you may have even come up with more ideas as you worked on the project. Try adding those in! Any project is a great learning opportunity and will improve your coding skills. Practicing these skills will help develop good lifelong learning skills to become the best developer that you can be.</p>
@@ -94,11 +107,17 @@
 
 <ul>
     <li>Science Project</li>
-        (Insert screenshot(s) here)
+
+            (Insert screenshot(s) here)
+
     <li>Math Project</li>
-        (Insert screenshot(s) here)
+
+            (Insert screenshot(s) here)
+
     <li>Social Studies Project</li>
-        (Insert screenshot(s) here)
+
+            (Insert screenshot(s) here)
+            
 </ul>
 
 <p>(Editor's Note: If either of you have any ideas for specific projects, please feel free to make adjustments to the titles of the bullet points)</p>
