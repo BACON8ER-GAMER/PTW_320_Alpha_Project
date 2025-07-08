@@ -21,6 +21,7 @@
 
 <p>When using AI as an assistant for coding, it is important to use it in the appropriate circumstances. We want to make it clear that we do not support using AI to all of the coding by itself. This is a bad practice as you will not learn from the coding process. AI does not think like humans and will arrange the code in a way that may not be optimal for any experienced developer. On top of that, having AI do all the work for you would be considered cheating. Work with your teacher and figure out the best way to use AI for your project. And trust us, any experienced teacher or developer <i>will</i> know if you used the AI make all of your website. Here are some Do's and Don't's when using AI coding assistance.</p>
 
+
 <table>
     <tr>
         <th>Do's</th>
@@ -46,6 +47,7 @@
         <td>Let the AI have complete creative control over your project</td>
     </tr>
 </table>
+
 
 <h2 id="C3">Instructions</h2>
 
