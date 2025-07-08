@@ -104,6 +104,8 @@
 
         (Insert screenshot(s) here)
 
+<br>
+
 <p>(Editor's Note: If either of you have any ideas for specific projects, please feel free to make adjustments to the titles of the bullet points)</p>
 
 
@@ -112,20 +114,10 @@
 
 <p>As you continue on your coding journey, be sure to check out these resources to learn more about coding for websites and responsible use of an AI assistant. Below are more resources on where you can learn and grow as a developer. The best part, all of the resources listed are free to use!</p>
 
-<a href="https://code.org/en-US" target="_blank">Code.org</a>
-
-<br>
-
-<a href="https://www.w3schools.com/" target="_blank">W3Schools.com</a>
-
-<br>
-
-<a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a>
-
-<br>
-
-<a href="https://scratch.mit.edu/" target="_blank">Scratch (Great for younger learners, but offers accelerated courses for older students.)</a>
-
-<br>
-
-<a href="https://www.codecademy.com/" target="_blank">Codecademy (Good for high school students looking to turn coding into a career.)</a>
+<ul>
+    <li><a href="https://code.org/en-US" target="_blank">Code.org</a></li>
+    <li><a href="https://www.w3schools.com/" target="_blank">W3Schools.com</a></li>
+    <li><a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a></li>
+    <li><a href="https://scratch.mit.edu/" target="_blank">Scratch (Great for younger learners, but offers accelerated courses for older students.)</a></li>
+    <li><a href="https://www.codecademy.com/" target="_blank">Codecademy (Good for high school students looking to turn coding into a career.)</a></li>
+</ul>
