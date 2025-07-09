@@ -7,6 +7,8 @@
 }
 </style>
 
+<body>
+
 <h1 class="mysection">AI Assisted Coding for Secondary Students</h1>
 
 <div style="display: flex; align-items: flex-start;">
@@ -22,7 +24,7 @@
   </nav>
   <div style="flex: 1; min-width: 0;">
 
-<body style="background-color:powderblue;">
+<body style="background-color:softivory;">
 
 <h2 id="C1">Introduction</h2>
 
