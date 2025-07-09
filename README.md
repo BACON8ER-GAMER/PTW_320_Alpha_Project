@@ -1,8 +1,9 @@
 <style>
 .mysection {
-   background-color: red;
-   width: 1000px;
-   height: 100px;
+   background-color: violet;
+   width: 100%;
+   height: 50px;
+   text-align: center;
 }
 </style>
 
