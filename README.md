@@ -1,7 +1,7 @@
 <style>
 .mysection {
    background-color: violet;
-   width: 200%;
+   width: 100%;
    height: 50px;
    text-align: center;
 }
