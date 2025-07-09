@@ -1,4 +1,4 @@
-<h1 style="background-color:powderblue;">AI Assisted Coding for Secondary Students</h1>
+<h1>AI Assisted Coding for Secondary Students</h1>
 
 <div style="display: flex; align-items: flex-start;">
   <nav style="position: sticky; top: 24px; align-self: flex-start; min-width: 220px; max-width: 260px; background: #f8ffae; border-radius: 16px; box-shadow: 2px 0 8px rgba(67, 206, 162, 0.15); padding: 32px 20px; margin-right: 32px; height: fit-content; font-family: 'Segoe UI', Arial, sans-serif;">
@@ -12,6 +12,8 @@
     </ul>
   </nav>
   <div style="flex: 1; min-width: 0;">
+
+<body style="background-color:powderblue;">
 
 <h2 id="C1">Introduction</h2>
 
@@ -133,3 +135,5 @@
     <li><a href="https://scratch.mit.edu/" target="_blank">Scratch </a>(Great for younger learners, but offers accelerated courses for older students.)</li>
     <li><a href="https://www.codecademy.com/" target="_blank">Codecademy </a>(Good for high school students looking to turn coding into a career.)</li>
 </ul>
+
+</body>
