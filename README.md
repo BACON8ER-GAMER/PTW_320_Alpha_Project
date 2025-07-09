@@ -1,7 +1,7 @@
 <style>
 .mysection {
    background-color: red;
-   width: 100%;
+   width: 1000px;
    height: 100px;
 }
 </style>
