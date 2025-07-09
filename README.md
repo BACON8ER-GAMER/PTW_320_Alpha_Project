@@ -1,6 +1,6 @@
 <style>
 .mysection {
-   background-color: violet;
+   background-color: lightgray;
    width: 100%;
    height: 50px;
    text-align: center;
@@ -26,7 +26,7 @@
 
 <body style="background-color:softivory;">
 
-<h2 id="C1" style="background-color: lightgray">Introduction</h2>
+<h2 id="C1">Introduction</h2>
 
 <p>Over the years, AI has become more and more powerful in its ability to help developers with their code, allowing them to code more efficiently and effectively than ever before. It is a great tool that, if used correctly, can help aid in prototypes of projects and help put the finishing touches on an HTML website. With this article, you will learn how to use AI effectively to improve your HTML projects.</p>
 
