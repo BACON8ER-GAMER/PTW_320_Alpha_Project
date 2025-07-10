@@ -43,8 +43,8 @@
         The Do's and Don't's of AI Assisted Coding
     </caption>
     <tr>
-        <th>Do's</th>
-        <th>Don't's</th>
+        <th scope="col">Do's</th>
+        <th scope="col">Don't's</th>
     </tr>
     <tr>
         <td>Ask the AI for help when you are stuck on something</td>
