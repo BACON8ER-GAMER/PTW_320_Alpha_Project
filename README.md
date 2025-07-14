@@ -106,7 +106,6 @@
 
 <h3>Step 6: Use the AI assistant for help with coding</h3>
 
-<!--> The first sentence in the following paragraph doesn't follow from the previous paragraph if you assume the user has asked the AI assistant why problems may be happening. Maybe remove/change?<-->
 <p>If you made it to this step, you probably don't have many ideas on how to fix the code. Now would be the best time to take advantage of the AI assistant to help you with your code. Click on the AI assistant icon on your code editor (it will look different between the different programs) and give it a prompt. For example, you may want a table of contents on the website that scrolls along with the user. Simply ask the AI to "set up the table of contents as a sidebar on the right of the screen that scrolls with the user." The AI will then go to work to make your idea a reality. Depending on the size of the request, it may take some time before it can complete the task. Once it has finished the prompt, test the code and make sure it is working the way you want it to. As mentioned before, the AI assistant isn't perfect and the code may not be flawless.</p>
 
 <p>(Insert image of example prompt here?)</p>
@@ -137,7 +136,7 @@
             (Insert screenshot(s) here)
 </ul>
 
-<p>(Editor's Note: If either of you have any ideas for specific projects, please feel free to make adjustments to the titles of the bullet points)</p>
+<!--><p>(Editor's Note: If either of you have any ideas for specific projects, please feel free to make adjustments to the titles of the bullet points)</p><-->
 
 <h2 id="C5">Going Forward</h2>
 
